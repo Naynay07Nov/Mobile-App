@@ -18,7 +18,7 @@ export default function Section8() {
               
             </View>
             
-            
+              
         </View>    
     );
 }
